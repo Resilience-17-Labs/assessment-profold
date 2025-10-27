@@ -1,7 +1,7 @@
 const { ModelSchema, SchemaTypes, DatabaseModel } = require('@app-core/mongoose');
 
 const modelName = 'notifications';
-
+// Just a random comment
 /**
  * @typedef {Object} ModelSchema
  * @property {String} _id
